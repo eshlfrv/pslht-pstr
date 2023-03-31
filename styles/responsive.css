@@ -1,0 +1,76 @@
+@media all and (min-width: 330px) and (max-width: 550px) {
+    body{
+        overflow: hidden;
+    }
+.i2{
+    top: 9vw;
+    display: block;
+    position: absolute;
+    width: 100vw;
+    height: 120vw;
+    scale:1.3;
+}
+.firstscreen{
+    display: flex;
+    width: 100vw;
+    height: 130vw;
+}
+
+.i1{
+    display: none;
+}
+.t1, .t2, .t3,.t4, .t5, .t6,.t7{
+    display: none;
+}
+.gif1{
+  display: none;
+}
+.sharik{
+    width: 28vw;
+    height: 26.7vw;
+    position: absolute;
+    top: 57vw;
+    left: 62vw;
+}
+.sharik1{
+ display: none;
+}
+.sharik2{
+    display: none;
+}
+.static1{
+    display: none;
+}
+.static{
+    display: none;
+}
+.secondscreen{
+    scale: 1.5;
+    margin-top: 12vw;
+}
+.thirdscreen{
+    margin-top: 12.5vw;
+}
+.fourthscreen {
+    height: 26vw;
+    margin-left: -1vw;
+}
+.fourthscreen p {
+    font-size: 1.9vw;
+}
+.article2{
+    margin-top: 10vw;
+    margin-left: 1vw;
+    width: 55vw;
+}
+.article1{
+    margin-top: 10vw;
+    width: 52vw;
+}
+.dash{
+    height: 24vw;
+}
+.seventhscreen{
+    top: 332vw;
+}
+}
